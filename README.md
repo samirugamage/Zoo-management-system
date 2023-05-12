@@ -10,9 +10,9 @@
 #Key Features
                 Efficient Record-Keeping: Streamlined and accurate data management, reducing the risk of losing critical animal information.
 
-                Animal Food Consumption and Treatment Management: Enables efficient tracking of food consumption and medical                 treatments, ensuring animal welfare and resource optimization.
+  Animal Food Consumption and Treatment Management: Enables efficient tracking of food consumption and medical                 treatments, ensuring animal welfare and resource optimization.
 
-                Charity Event Management: A dedicated module for organizing and promoting charity events to increase fundraising                 capabilities.
+  Charity Event Management: A dedicated module for organizing and promoting charity events to increase fundraising                 capabilities.
 
 #Public Education: A platform to educate the public about animal rights, habitats, and conservation efforts.
 
@@ -23,6 +23,5 @@
                 By implementing this web-based system, zoos in Sri Lanka can effectively overcome their operational challenges,                 fulfill their intended purposes more efficiently, and contribute more effectively to global conservation                                 initiatives.
 
 #instructions on running the software
-                install nodeJS goto backend and perform npm i (node installation) goto frontend and perform npm i (node                 installation)
-
-                goto the frontend and perform npm start to run the frontend goto the backend and perform npm run dev to run the                 backend
+                  install nodeJS goto backend and perform npm i (node installation) goto frontend and perform npm i (node                 installation)
+                  goto the frontend and perform npm start to run the frontend goto the backend and perform npm run dev to run the                 backend
