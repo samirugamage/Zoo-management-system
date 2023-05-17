@@ -1,27 +1,32 @@
-#Project Overview
-                This project addresses significant operational challenges faced by zoos in Sri Lanka due to reliance on outdated,                  manual methods of record-keeping and management.
+Zoo Management System
+The Zoo Management System is a web application designed to revolutionize zoo operations in Sri Lanka. This application addresses key operational challenges such as data accuracy, animal history preservation, food consumption tracking, and public education on animal rights and habitats.
 
-#Problem Statement
-                Current issues include difficulties in maintaining accurate data, potential loss of vital animal histories,                 inefficient food consumption tracking, and limitations in fundraising and public education regarding animal rights and                 habitats.
+Features
+Streamlines data management, ensuring accuracy and preservation of vital animal histories.
+Tracks food consumption and medical treatments for optimal animal welfare.
+Promotes charity events for fundraising.
+Serves as an educational platform for the public about animal conservation.
+The system caters to various user groups, including administrators, zoologists, staff, and the public, enhancing efficiency and contributing more effectively to global conservation efforts.
 
-#Proposed Solution
-                my proposed solution is a web-based system designed to revolutionize zoo management and public education efforts.
+Installation
+To run this project, you need to install the MERN stack. Here are the steps:
 
-#Key Features
-                Efficient Record-Keeping: Streamlined and accurate data management, reducing the risk of losing critical animal information.
+Install Node.js and npm
+Download and install Node.js from the official website.
+Verify the installation by checking the version of Node.js and npm (Node Package Manager) in your terminal/command prompt:
 
-  Animal Food Consumption and Treatment Management: Enables efficient tracking of food consumption and medical                 treatments, ensuring animal welfare and resource optimization.
+node -v and
+npm -v
 
-  Charity Event Management: A dedicated module for organizing and promoting charity events to increase fundraising                 capabilities.
+Install Express
+Express can be installed via npm as it is a Node.js framework:   
+npm install express
 
-#Public Education: A platform to educate the public about animal rights, habitats, and conservation efforts.
+Setup MongoDB and make the nessecery configurations.
 
-#User Groups
-                The system caters to various user groups, including website administrators, zoologists, staff members, and the                 general public, providing each with appropriate access levels and capabilities.
+After installing these, you can clone this repository and run npm install in the project directory to install all necessary dependencies. 
+Then, use npm start to run the frontend of the application.
 
-#Impact
-                By implementing this web-based system, zoos in Sri Lanka can effectively overcome their operational challenges,                 fulfill their intended purposes more efficiently, and contribute more effectively to global conservation                                 initiatives.
+npm run dev to run the backend of the application
 
-#instructions on running the software
-                  install nodeJS goto backend and perform npm i (node installation) goto frontend and perform npm i (node                 installation)
-                  goto the frontend and perform npm start to run the frontend goto the backend and perform npm run dev to run the                 backend
+
